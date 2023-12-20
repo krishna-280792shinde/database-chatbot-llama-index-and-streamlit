@@ -1,0 +1,6 @@
+llama-index
+openai
+streamlit
+streamlit_extras
+mysqlclient
+tiktoken
